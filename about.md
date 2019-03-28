@@ -16,12 +16,14 @@ layout: page
 	<li>TensorFlow</li>
 	<li>Keras</li>
 	<li>Matlab</li>
+	<li>Java</li>
+	<li>Git</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/catiafortunato/optimization_algorithms">Otimization and Algorithms</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
