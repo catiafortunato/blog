@@ -14,7 +14,7 @@ picture: assets/images/new_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/catiafortunato/indigo/raw/gh-pages/assets/docs/%20CV_CátiaFortunato_EN-2.pdf
 
 url: https://catiafortunato.github.io/indigo
 # your url: http://USERNAME.github.io
