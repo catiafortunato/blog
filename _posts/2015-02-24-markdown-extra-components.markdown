@@ -1,16 +1,16 @@
 ---
-title: "Markdown Extra Components"
+title: "Landing Festival: A compreensive review"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+date: 2019-04-12 22:48
+#image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- conferences
+- AI
+- talks
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: catiafortunato
+description: My experience going to the Landing Festival
 ---
 
 ## Summary:
