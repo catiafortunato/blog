@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://github.com/catiafortunato/indigo/raw/gh-pages/assets/docs/%20CV_CátiaFortunato_EN-2.pdf
 
-url: https://catiafortunato.github.io/indigo
+url: https://catiafortunato.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
