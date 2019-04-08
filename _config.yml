@@ -54,18 +54,23 @@ github: catiafortunato
 email: catiafortunato35@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+    #johndoe:
+    #    name: John Doe
+    #    bio: A Man who travels the world eating noodles
+    #    external-image: false
+    #    picture: assets/images/profile.jpg
+    #    twitter: johndoe
+    #jamesfoster:
+    #    name: James Foster
+    #    bio: A Man who develops software with coffee
+    #    external-image: false
+    #    picture: assets/images/james.jpg
+    #    twitter: jamesfoster
+    catiafortunato:
+        name: Cátia Fortunato
+        bio: Deep Learning enthusiast
+        picture: assets/images/profile_new.jpg
+        twitter: catia_fortunato
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
