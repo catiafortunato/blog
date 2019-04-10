@@ -12,7 +12,7 @@ picture: assets/images/new_profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
 resume-url: https://github.com/catiafortunato/indigo/raw/gh-pages/assets/docs/%20CV_CátiaFortunato_EN-2.pdf
 
