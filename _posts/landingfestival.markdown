@@ -8,7 +8,7 @@ tag:
 - conferences
 - AI
 - talks
-category: blog
+category:blog
 author: catiafortunato
 description: My experience going to the Landing Festival
 ---
