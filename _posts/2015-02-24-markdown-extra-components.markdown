@@ -29,4 +29,4 @@ This ticket also granted access to the Expo Area, where a few German companies w
 
 Overall, this was a great experience for me and I want to thank Landing Jobs for giving me this opportunity, initiatives like the Top Talent Grant are important to incentivize the community to attend these types of events and specialy students that are about to finish studies and want to have a taste of what it is like out there. 
 
-![alt text](../assests/images/landingfestival-mainstage.jpg)
+![alt text](assets/images/landingfestival-mainstage.jpg)
