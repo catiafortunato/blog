@@ -23,8 +23,10 @@ When we arrived on the first day it was pleasant to see that they had lots of pe
 
 The conference included talks on a few of the hottest topics in technology: AI, blockchain, development, and design, and it also included career driven workshops throughout the day. I was particularly excited about the AI track because from the website I could see that some of the speakers were talking about interesting applications of AI and I had the opportunity of learning a lot from these talks.
 
-But since this was a smaller conference the speakers were easy to approach and talk to, and for me, this is one of the upsides of this conference. Talking to the speakers, getting to know their experience and understanding what the market is looking for in this field were some of the most important things I was able to retrieve from this experience. 
+Since this was a smaller conference the speakers were easy to approach and talk to, and for me, this is one of the upsides of this conference. Talking to the speakers, getting to know their experience and understanding what the market is looking for in this field were some of the most important things I was able to retrieve from this experience. 
 
 This ticket also granted access to the Expo Area, where a few German companies were present. The number of companies there was relatively small, but again, given the size of the conference and the prince of the ticket, I would say that it is understandable. 
 
 Overall, this was a great experience for me and I want to thank Landing Jobs for giving me this opportunity, initiatives like the Top Talent Grant are important to incentivize the community to attend these types of events and specialy students that are about to finish studies and want to have a taste of what it is like out there. 
+
+[Main stage](../assests/images/landingfestival-mainstage.jpg)
