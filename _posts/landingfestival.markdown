@@ -5,10 +5,10 @@ date: 2019-04-12 22:48
 #image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- conferences
-- AI
-- talks
-category:blog
+    - conferences
+    - AI
+    - talks
+category: blog
 author: catiafortunato
 description: My experience going to the Landing Festival
 ---
